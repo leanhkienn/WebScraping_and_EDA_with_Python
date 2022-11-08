@@ -8,3 +8,4 @@ Python 3.10
 Pandas
 Numpy
 curl, subprocess, requests
+- Data visualization: Matplotlib, Seaborn
