@@ -9,3 +9,7 @@ Pandas
 Numpy
 curl, subprocess, requests
 - Data visualization: Matplotlib, Seaborn
+- Number manipulation: Numpy
+
+# Aims
+To create an overview of Vietnam's students performance on the national exam and other interesting insights such as "the most common last name", etc. 
