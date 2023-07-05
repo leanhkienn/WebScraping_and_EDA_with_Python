@@ -13,3 +13,8 @@ curl, subprocess, requests
 
 # Aims
 To create an overview of Vietnam's students performance on the national exam and other interesting insights such as "the most common last name", etc. 
+
+
+
+# Results
+(Images and Results/1. Average Scores vs Number of Subjects Taken.png)
