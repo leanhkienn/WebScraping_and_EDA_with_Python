@@ -17,4 +17,5 @@ To create an overview of Vietnam's students performance on the national exam and
 
 
 # Results
-![Images and Results/1. Average Scores vs Number of Subjects Taken.png]
+
+![1  Average Scores vs Number of Subjects Taken](https://github.com/leanhkienn/StudentsScore_Project/assets/116093407/9302344f-5eb9-4c3e-b95b-1ddc0c32d4b9)
